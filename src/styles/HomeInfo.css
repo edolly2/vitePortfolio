@@ -1,0 +1,33 @@
+.home-info-container {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid rgba(119, 119, 119, 0.5);
+  border-radius: 0.8rem;
+  padding: 2.4rem;
+  align-items: center;
+  gap: 2.4rem;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.9);
+  background-color: rgba(119, 119, 119, 0.6);
+  backdrop-filter: blur(5px);
+  /* z-index: 1; */
+}
+
+.home-info-title {
+  align-self: flex-start;
+}
+
+.home-info-content {
+}
+
+.home-info-list {
+}
+
+.home-info-list-item {
+}
+
+.home-info-p-title {
+  margin: 2.4rem 0 0 0;
+}
+
+.home-info-p {
+}

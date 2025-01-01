@@ -35,7 +35,7 @@ const Footer = () => {
   const otherItems = ["FAQ", "SETTINGS", "TERMS"];
 
   return (
-    <header>
+    <header className="footer-container">
       <div>
         <SiteBrand />
         <h4 className="footer-title">
